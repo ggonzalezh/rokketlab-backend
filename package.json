@@ -1,0 +1,21 @@
+{
+  "name": "backend-rokketlab",
+  "version": "1.0.0",
+  "description": "backend-rokketlab",
+  "main": "app.js",
+  "author": "ggonzalezh",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chai-http": "^4.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.3",
+    "mongoose-unique-validator": "^2.0.1",
+    "pino": "^6.6.0",
+    "pino-pretty": "^4.2.1"
+  }
+}

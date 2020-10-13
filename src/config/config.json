@@ -1,0 +1,8 @@
+{
+    "mongo": {
+        "url": "mongodb+srv://rokketlab:6U3ubjMQmYdCG02P@cluster-1.mpvuc.mongodb.net/rokketlab?retryWrites=true&w=majority"
+    },
+    "express":{
+        "port": 3000
+    }
+}
